@@ -4,4 +4,5 @@ manzanas
 naranjas
 peras
 mandarinas
+canas
 Estas sonlas frutas de la pinata!!!!
